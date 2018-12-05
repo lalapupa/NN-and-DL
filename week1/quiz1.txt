@@ -91,6 +91,10 @@ x-axis is the performance of the algorithm
 y-axis (vertical axis) is the amount of data.
 Этот вариант не должен быть выбран
 
+x-axis is the amount of data
+y-axis is the size of the model you train.
+Этот вариант не должен быть выбран 
+
 10. Вопрос 10
 Assuming the trends described in the previous question's figure are accurate (and hoping you got the axis labels right), which of the following are true? (Check all that apply.)
 
