@@ -1,0 +1,3 @@
+read more about broadcasting and watch videos, try coding numpy broadcasting matrixes.
+https://docs.scipy.org/doc/numpy-1.15.0/user/basics.broadcasting.html
+numpy broadcasting
